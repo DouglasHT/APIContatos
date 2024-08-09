@@ -1,5 +1,5 @@
 import express from "express";
-import pessoaRouter from "./paths/pessoa-route";
+import pessoaRouter from "./paths/pessoa-router";
 import organizacaoRouter from "./paths/organizacao-route";
 import tagRouter from "./paths/tag-route";
 
